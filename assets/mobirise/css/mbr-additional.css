@@ -31,10 +31,10 @@ body {
 }
 .display-2 {
   font-family: 'Indie Flower', handwriting;
-  font-size: 1.2rem;
+  font-size: 2.8rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 4.48rem;
 }
 .display-4 {
   font-family: 'Rubik', sans-serif;
@@ -69,9 +69,9 @@ body {
     line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 0.96rem;
-    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.24rem;
+    font-size: calc( 1.63rem + (2.8 - 1.63) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.63rem + (2.8 - 1.63) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -1748,18 +1748,18 @@ body {
   color: #767676 !important;
 }
 .cid-qDsFtZfMB4 {
-  background-image: url("../../../assets/images/mbr-719x1080.jpg");
+  background-image: url("../../../assets/images/mbr-1595x1080.jpg");
 }
 .cid-qDsFtZfMB4 H1 {
   text-align: left;
 }
 .cid-qDsFtZfMB4 H3 {
   text-align: center;
-  color: #00faff;
+  color: #faec00;
 }
 .cid-qDwLGCK8FW {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-qDwLGCK8FW .mbr-slider .carousel-control {
